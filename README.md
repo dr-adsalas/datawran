@@ -28,3 +28,8 @@ This dashboard operates on Streamlit and enables users to view trends from 2000â
 - Historical weather data obtained from the [National Weather Service - Los Angeles/Oxnard (NWS LOX)](https://www.weather.gov/lox/observations_historical)
 - Download the KOXR SQLite database directly from the GitHub repository:  
   [KOXR_2000â€“2024_data.db](https://github.com/dr-adsalas/datawran/blob/main/KOXR_2000-2024_data.db)
+
+## Link to In-Class Presentation about the KOXR Dashboard
+
+[View the presentation on Canva](https://www.canva.com/design/DAGncF8AH04/V-NmxY85lU9B_3nyqWpJMg/view?utm_content=DAGncF8AH04&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0896e2883e)
+
