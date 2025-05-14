@@ -1,0 +1,14 @@
+This Streamlit dashboard visualizes weather trends, fire-weather conditions, and extreme events for the KOXR station (Oxnard Airport) from 2000 to 2024. Designed as an interactive tool for researchers, policymakers, and the public, it provides insight into wildfire-relevant meteorological patterns in Ventura County, CA.
+Multi-Tab Dashboard with interactive visualizations:
+-Overview: Basic stats and trends
+-Extreme Temperature Days: Identify days with unusually high or low temperatures
+-Fire Weather Conditions: Analyze temp, RH, wind on fire vs. non-fire days
+-Red Flag Warning Criteria: NWS thresholds mapped to local data
+-Santa Ana Winds: Track regional wind events and their frequency
+
+Multivariate Explorer: Customizable plots for deeper analysis
+-Date range filters and reset buttons per tab
+-Dynamic year and month filtering
+
+Plotly-based charts with tooltips, hover info, and export capability
+Loads from a SQLite database hosted on GitHub
